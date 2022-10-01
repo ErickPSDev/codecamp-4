@@ -1,0 +1,78 @@
+* {
+    font-family: 'Barlow Condensed';
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+    min-width: 300px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    font-size: 20px;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    border-radius: 20px;
+}
+
+.color-mygreen {
+    background-color: #00968F;
+}
+
+.color-mydarkgreen {
+    background-color: #234A48;
+}
+
+.color-white {
+    background-color: white;
+    border: 2px solid black;
+}
+
+.color-grey {
+    background-color: #1E1E1E;
+    color: whitesmoke;
+}
+
+.color-almostwhite {
+    background-color: #F5F5F5;
+    border: 2px solid black;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+    min-width: fit-content;
+  }
+
+.font-label {
+    font-size: large;
+    text-decoration: underline;
+}
+
+.barlow-condensed {
+    font-family: 'Barlow Condensed' ;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans';
+}
+
+.crimson-text {
+    font-family: 'Crimson Text';
+}
